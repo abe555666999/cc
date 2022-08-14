@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+此文件由 Web 项目的发布/打包过程使用。可以通过编辑此 MSBuild 文件
+自定义此过程的行为。为了解与此相关的更多内容，请访问 https://go.microsoft.com/fwlink/?LinkID=208121。 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\ahai\WF_Project\LotTaskServer\Quartz.NetUI-master\Quartz.NET.Web\bin\Release\netcoreapp2.1\publish\</_PublishTargetUrl>
+    <History>True|2022-08-01T12:12:27.7440493Z;True|2022-08-01T20:03:01.3372176+08:00;True|2022-08-01T19:57:21.4298856+08:00;</History>
+  </PropertyGroup>
+</Project>

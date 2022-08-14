@@ -1,0 +1,47 @@
+E:\xz20180307\Quartz.NET\Quartz.NET\Quartz.NET.WindowsService\obj\Debug\Quartz.NET.WindowsService.ProjectInstaller.resources
+E:\xz20180307\Quartz.NET\Quartz.NET\Quartz.NET.WindowsService\obj\Debug\Quartz.NET.WindowsService.csproj.GenerateResource.cache
+E:\xz20180307\Quartz.NET\Quartz.NET\Quartz.NET.WindowsService\obj\Debug\Quartz.NET.WindowsService.csproj.CoreCompileInputs.cache
+E:\xz20180307\Quartz.NET\Quartz.NET\Quartz.NET.WindowsService\bin\Debug\Quartz.NET.WindowsService.exe.config
+E:\xz20180307\Quartz.NET\Quartz.NET\Quartz.NET.WindowsService\bin\Debug\Quartz.NET.WindowsService.exe
+E:\xz20180307\Quartz.NET\Quartz.NET\Quartz.NET.WindowsService\bin\Debug\Quartz.NET.WindowsService.pdb
+E:\xz20180307\Quartz.NET\Quartz.NET\Quartz.NET.WindowsService\obj\Debug\Quartz.NET.WindowsService.exe
+E:\xz20180307\Quartz.NET\Quartz.NET\Quartz.NET.WindowsService\obj\Debug\Quartz.NET.WindowsService.pdb
+E:\xz20180307\Quartz.NET\Quartz.NET\Quartz.NET.WindowsService\obj\Debug\Quartz.NET.WindowsService.csprojAssemblyReference.cache
+E:\GitHub2019\Quartz.NetUI\Quartz.NET.WindowsService\bin\Debug\Quartz.NET.WindowsService.exe.config
+E:\GitHub2019\Quartz.NetUI\Quartz.NET.WindowsService\bin\Debug\Quartz.NET.WindowsService.exe
+E:\GitHub2019\Quartz.NetUI\Quartz.NET.WindowsService\bin\Debug\Quartz.NET.WindowsService.pdb
+E:\GitHub2019\Quartz.NetUI\Quartz.NET.WindowsService\obj\Debug\Quartz.NET.WindowsService.ProjectInstaller.resources
+E:\GitHub2019\Quartz.NetUI\Quartz.NET.WindowsService\obj\Debug\Quartz.NET.WindowsService.csproj.GenerateResource.cache
+E:\GitHub2019\Quartz.NetUI\Quartz.NET.WindowsService\obj\Debug\Quartz.NET.WindowsService.csproj.CoreCompileInputs.cache
+E:\GitHub2019\Quartz.NetUI\Quartz.NET.WindowsService\obj\Debug\Quartz.NET.WindowsService.exe
+E:\GitHub2019\Quartz.NetUI\Quartz.NET.WindowsService\obj\Debug\Quartz.NET.WindowsService.pdb
+C:\Users\ahai\Desktop\OTherFile\Quartz.NetUI\Quartz.NetUI-master (1)\Quartz.NetUI-master\Quartz.NET.WindowsService\bin\Debug\Quartz.NET.WindowsService.exe.config
+C:\Users\ahai\Desktop\OTherFile\Quartz.NetUI\Quartz.NetUI-master (1)\Quartz.NetUI-master\Quartz.NET.WindowsService\bin\Debug\Quartz.NET.WindowsService.exe
+C:\Users\ahai\Desktop\OTherFile\Quartz.NetUI\Quartz.NetUI-master (1)\Quartz.NetUI-master\Quartz.NET.WindowsService\bin\Debug\Quartz.NET.WindowsService.pdb
+C:\Users\ahai\Desktop\OTherFile\Quartz.NetUI\Quartz.NetUI-master (1)\Quartz.NetUI-master\Quartz.NET.WindowsService\obj\Debug\Quartz.NET.WindowsService.csproj.AssemblyReference.cache
+C:\Users\ahai\Desktop\OTherFile\Quartz.NetUI\Quartz.NetUI-master (1)\Quartz.NetUI-master\Quartz.NET.WindowsService\obj\Debug\Quartz.NET.WindowsService.csproj.SuggestedBindingRedirects.cache
+C:\Users\ahai\Desktop\OTherFile\Quartz.NetUI\Quartz.NetUI-master (1)\Quartz.NetUI-master\Quartz.NET.WindowsService\obj\Debug\Quartz.NET.WindowsService.ProjectInstaller.resources
+C:\Users\ahai\Desktop\OTherFile\Quartz.NetUI\Quartz.NetUI-master (1)\Quartz.NetUI-master\Quartz.NET.WindowsService\obj\Debug\Quartz.NET.WindowsService.csproj.GenerateResource.cache
+C:\Users\ahai\Desktop\OTherFile\Quartz.NetUI\Quartz.NetUI-master (1)\Quartz.NetUI-master\Quartz.NET.WindowsService\obj\Debug\Quartz.NET.WindowsService.csproj.CoreCompileInputs.cache
+C:\Users\ahai\Desktop\OTherFile\Quartz.NetUI\Quartz.NetUI-master (1)\Quartz.NetUI-master\Quartz.NET.WindowsService\obj\Debug\Quartz.NET.WindowsService.exe
+C:\Users\ahai\Desktop\OTherFile\Quartz.NetUI\Quartz.NetUI-master (1)\Quartz.NetUI-master\Quartz.NET.WindowsService\obj\Debug\Quartz.NET.WindowsService.pdb
+C:\Users\ahai\WF_Project\LotTaskServer\Quartz.NetUI-master\Quartz.NET.WindowsService\bin\Debug\Quartz.NET.WindowsService.exe.config
+C:\Users\ahai\WF_Project\LotTaskServer\Quartz.NetUI-master\Quartz.NET.WindowsService\bin\Debug\Quartz.NET.WindowsService.exe
+C:\Users\ahai\WF_Project\LotTaskServer\Quartz.NetUI-master\Quartz.NET.WindowsService\bin\Debug\Quartz.NET.WindowsService.pdb
+C:\Users\ahai\WF_Project\LotTaskServer\Quartz.NetUI-master\Quartz.NET.WindowsService\obj\Debug\Quartz.NET.WindowsService.csproj.AssemblyReference.cache
+C:\Users\ahai\WF_Project\LotTaskServer\Quartz.NetUI-master\Quartz.NET.WindowsService\obj\Debug\Quartz.NET.WindowsService.csproj.SuggestedBindingRedirects.cache
+C:\Users\ahai\WF_Project\LotTaskServer\Quartz.NetUI-master\Quartz.NET.WindowsService\obj\Debug\Quartz.NET.WindowsService.ProjectInstaller.resources
+C:\Users\ahai\WF_Project\LotTaskServer\Quartz.NetUI-master\Quartz.NET.WindowsService\obj\Debug\Quartz.NET.WindowsService.csproj.GenerateResource.cache
+C:\Users\ahai\WF_Project\LotTaskServer\Quartz.NetUI-master\Quartz.NET.WindowsService\obj\Debug\Quartz.NET.WindowsService.csproj.CoreCompileInputs.cache
+C:\Users\ahai\WF_Project\LotTaskServer\Quartz.NetUI-master\Quartz.NET.WindowsService\obj\Debug\Quartz.NET.WindowsService.exe
+C:\Users\ahai\WF_Project\LotTaskServer\Quartz.NetUI-master\Quartz.NET.WindowsService\obj\Debug\Quartz.NET.WindowsService.pdb
+D:\WorkeFile\LotteryGame\LotTaskServer\Quartz.NetUI-master\Quartz.NET.WindowsService\bin\Debug\Quartz.NET.WindowsService.exe.config
+D:\WorkeFile\LotteryGame\LotTaskServer\Quartz.NetUI-master\Quartz.NET.WindowsService\bin\Debug\Quartz.NET.WindowsService.exe
+D:\WorkeFile\LotteryGame\LotTaskServer\Quartz.NetUI-master\Quartz.NET.WindowsService\bin\Debug\Quartz.NET.WindowsService.pdb
+D:\WorkeFile\LotteryGame\LotTaskServer\Quartz.NetUI-master\Quartz.NET.WindowsService\obj\Debug\Quartz.NET.WindowsService.csproj.AssemblyReference.cache
+D:\WorkeFile\LotteryGame\LotTaskServer\Quartz.NetUI-master\Quartz.NET.WindowsService\obj\Debug\Quartz.NET.WindowsService.csproj.SuggestedBindingRedirects.cache
+D:\WorkeFile\LotteryGame\LotTaskServer\Quartz.NetUI-master\Quartz.NET.WindowsService\obj\Debug\Quartz.NET.WindowsService.ProjectInstaller.resources
+D:\WorkeFile\LotteryGame\LotTaskServer\Quartz.NetUI-master\Quartz.NET.WindowsService\obj\Debug\Quartz.NET.WindowsService.csproj.GenerateResource.cache
+D:\WorkeFile\LotteryGame\LotTaskServer\Quartz.NetUI-master\Quartz.NET.WindowsService\obj\Debug\Quartz.NET.WindowsService.csproj.CoreCompileInputs.cache
+D:\WorkeFile\LotteryGame\LotTaskServer\Quartz.NetUI-master\Quartz.NET.WindowsService\obj\Debug\Quartz.NET.WindowsService.exe
+D:\WorkeFile\LotteryGame\LotTaskServer\Quartz.NetUI-master\Quartz.NET.WindowsService\obj\Debug\Quartz.NET.WindowsService.pdb
